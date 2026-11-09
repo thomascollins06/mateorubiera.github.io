@@ -9,7 +9,7 @@ const allPages = ["writings/carpe-diem.html",
                   "new_sites.html",
                   "old_sites.html",
                   "writings.html",
-                  "crossword.hmtl"];
+                  "crossword.html"];
 
 randPage();
 
