@@ -1,4 +1,15 @@
-const allPages = ["writings/carpe-diem.html", "writings/congregation.html", "writings/letter.html", "writings/neogenesis.html", "writings/popcorn.html", "writings/xanadu.html", "chatroom.html", "index.html", "new_sites.html", "old_sites.html", "writings.html"];
+const allPages = ["writings/carpe-diem.html",
+                  "writings/congregation.html",
+                  "writings/letter.html",
+                  "writings/neogenesis.html",
+                  "writings/popcorn.html", 
+                  "writings/xanadu.html", 
+                  "chatroom.html", 
+                  "index.html",
+                  "new_sites.html",
+                  "old_sites.html",
+                  "writings.html",
+                  "crossword.hmtl"];
 
 randPage();
 
