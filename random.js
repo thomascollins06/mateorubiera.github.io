@@ -6,11 +6,11 @@ const allPages = ["writings/carpe-diem.html",
                   "writings/xanadu.html", 
                   "chatroom.html", 
                   "index.html",
-                  "new_sites.html",
-                  "old_sites.html",
+                  "links.html",
                   "writings.html",
                   "other/crossword.html",
-                  "other/malcolm.html"];
+                  "other/malcolm.html",
+                  "other/qotd.html"];
 
 randPage();
 
